@@ -1,17 +1,15 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Welcome to visit my GitHub #
+#  Welcome to my GitHub #
 
+<h3 align="center" style="color:White">😄Visit Count😄</h3>
+<br>
 <p align="center">
 <a href="https://gist.github.com/elitemonster"><img src="https://profile-counter.glitch.me/{elitemonster-Wilson}/count.svg" alt="elitemonster :: elitemonster's Count" /></a>
 </p>
 
-<p align="center">
-<a href="https://wakatime.com/@elitemonster"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-</p>
 
-# Main Skills #
+# Technology Stack #
 
-<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
@@ -22,7 +20,7 @@
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
 
 
-# 💻 My Development Languages
+# Languages & Framework
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -115,10 +113,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
