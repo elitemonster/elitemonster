@@ -1,11 +1,9 @@
 <!--suppress HtmlDeprecatedAttribute -->
 #  Welcome to my GitHub #
 
-<h3 align="center" style="color:White">😄Visit Count😄</h3>
+<h3 align="center" style="color:White">😄😄😄</h3>
 <br>
-<p align="center">
-<a href="https://gist.github.com/elitemonster"><img src="https://profile-counter.glitch.me/{elitemonster-Wilson}/count.svg" alt="elitemonster :: elitemonster's Count" /></a>
-</p>
+
 
 
 # Technology Stack #
