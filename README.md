@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 #  Welcome to my GitHub #
 
-<a href="https://app.daily.dev/elitemonster"><img src="https://api.daily.dev/devcards/53cf3cdef93d463882cf74f69a751542.png?r=mq0" width="400" alt="Michael Johnson's Dev Card"/></a>
+<a href="https://app.daily.dev/elitemonster"><img src="https://api.daily.dev/devcards/53cf3cdef93d463882cf74f69a751542.png?r=1by" width="400" alt="Michael Johnson's Dev Card"/></a>
 <br>
 
 
