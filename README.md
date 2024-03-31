@@ -1,10 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 #  Welcome to my GitHub #
 
-<a href="https://app.daily.dev/elitemonster" style="text-align:center"><img src="https://api.daily.dev/devcards/53cf3cdef93d463882cf74f69a751542.png?r=1by" width="400" alt="Michael Johnson's Dev Card"/></a>
 <br>
-
-
 
 # Technology Stack #
 
